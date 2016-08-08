@@ -1,0 +1,4 @@
+C:\Users\Pranam\Downloads\Hammers.Inventory\Hammers.Inventory\Hammers.Inventory.Entities\bin\Debug\Hammers.Inventory.Entities.dll
+C:\Users\Pranam\Downloads\Hammers.Inventory\Hammers.Inventory\Hammers.Inventory.Entities\bin\Debug\Hammers.Inventory.Entities.pdb
+C:\Users\Pranam\Downloads\Hammers.Inventory\Hammers.Inventory\Hammers.Inventory.Entities\obj\Debug\Hammers.Inventory.Entities.dll
+C:\Users\Pranam\Downloads\Hammers.Inventory\Hammers.Inventory\Hammers.Inventory.Entities\obj\Debug\Hammers.Inventory.Entities.pdb

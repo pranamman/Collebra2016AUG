@@ -1,0 +1,16 @@
+C:\Users\Pranam\Downloads\Hammers.Inventory\Hammers.Inventory\Hammers.Inventory.DAL\bin\Debug\Hammers.Inventory.DAL.dll.config
+C:\Users\Pranam\Downloads\Hammers.Inventory\Hammers.Inventory\Hammers.Inventory.DAL\bin\Debug\Hammers.Inventory.DAL.dll
+C:\Users\Pranam\Downloads\Hammers.Inventory\Hammers.Inventory\Hammers.Inventory.DAL\bin\Debug\Hammers.Inventory.DAL.pdb
+C:\Users\Pranam\Downloads\Hammers.Inventory\Hammers.Inventory\Hammers.Inventory.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Pranam\Downloads\Hammers.Inventory\Hammers.Inventory\Hammers.Inventory.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pranam\Downloads\Hammers.Inventory\Hammers.Inventory\Hammers.Inventory.DAL\bin\Debug\Hammers.Inventory.Entities.dll
+C:\Users\Pranam\Downloads\Hammers.Inventory\Hammers.Inventory\Hammers.Inventory.DAL\bin\Debug\Hammers.Inventory.Entities.pdb
+C:\Users\Pranam\Downloads\Hammers.Inventory\Hammers.Inventory\Hammers.Inventory.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Pranam\Downloads\Hammers.Inventory\Hammers.Inventory\Hammers.Inventory.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pranam\Downloads\Hammers.Inventory\Hammers.Inventory\Hammers.Inventory.DAL\obj\Debug\Hammers.Inventory.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Pranam\Downloads\Hammers.Inventory\Hammers.Inventory\Hammers.Inventory.DAL\obj\Debug\Hammers.Inventory.DAL.Migrations.initaildb.resources
+C:\Users\Pranam\Downloads\Hammers.Inventory\Hammers.Inventory\Hammers.Inventory.DAL\obj\Debug\Hammers.Inventory.DAL.Migrations.relationmodififd.resources
+C:\Users\Pranam\Downloads\Hammers.Inventory\Hammers.Inventory\Hammers.Inventory.DAL\obj\Debug\Hammers.Inventory.DAL.Migrations.WithInitialData.resources
+C:\Users\Pranam\Downloads\Hammers.Inventory\Hammers.Inventory\Hammers.Inventory.DAL\obj\Debug\Hammers.Inventory.DAL.csproj.GenerateResource.Cache
+C:\Users\Pranam\Downloads\Hammers.Inventory\Hammers.Inventory\Hammers.Inventory.DAL\obj\Debug\Hammers.Inventory.DAL.dll
+C:\Users\Pranam\Downloads\Hammers.Inventory\Hammers.Inventory\Hammers.Inventory.DAL\obj\Debug\Hammers.Inventory.DAL.pdb
